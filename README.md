@@ -33,40 +33,40 @@ The simulation code is based on the `fifth.cc` example from the `examples/tutori
 Below are the cwnd over time diagrams for different TCP variants:
 
 ### TCP NewReno
-![TCP NewReno](new-reno/tcp-new-reno.png)
+![tcp-new-reno](./new-reno/tcp-new-reno.png)
 
 ### TCP Bic
-![TCP Bic](bic/tcp-bic.png)
+![tcp-bic](./bic/tcp-bic.png)
 
 ### TCP Westwood+
-![TCP Westwood+](westwoodplus/tcp-westwoodplus.png)
+![tcp-westwoodplus](./westwoodplus/tcp-westwoodplus.png)
 
 ### TCP Vegas
-![TCP Vegas](vegas/tcp-vegas.png)
+![tcp-vegas](./vegas/tcp-vegas.png)
 
 ### TCP BBR
-![TCP BBR](results/tcp_bbr_cwnd.png)
+![tcp-bbr](./bbr/tcp-bbr.png)
 
 ### TCP Cubic
-![TCP Cubic](cubic/tcp-cubic.png)
+![tcp-cubic](./cubic/tcp-cubic.png)
 
 ### TCP High Speed
-![TCP High Speed](high-speed/tcp-high-speed.png)
+![tcp-high-speed](./high-speed/tcp-high-speed.png)
 
 ### TCP Hybola
-![TCP Hybla](hybla/tcp-hybla.png)
+![tcp-hybla](./hybla/tcp-hybla.png)
 
 ### TCP Illinois
-![TCP Illinois](illinois/tcp-illinois.png)
+![tcp-illinois](./illinois/tcp-illinois.png)
 
 ### TCP Scalable
-![TCP Scalable](scalable/tcp-scalable.png)
+![tcp-scalable](./scalable/tcp-scalable.png)
 
 ### TCP Veno
-![TCP Veno](veno/tcp-veno.png)
+![tcp-veno](./veno/tcp-veno.png)
 
 ### TCP Yeah
-![TCP Yeah](yeah/tcp-yeah.png)
+![tcp-yeah](./yeah/tcp-yeah.png)
 
 
 ## Getting Started
