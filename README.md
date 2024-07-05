@@ -69,11 +69,10 @@ Below are the cwnd over time diagrams for different TCP variants:
 ![tcp-yeah](./yeah/tcp-yeah.png)
 
 
-## Getting Started
 
 ### Prerequisites
 
-- ns-3 (version X.XX or higher)
+- ns-3
 - Python (for running the analysis script)
 
 ## License
